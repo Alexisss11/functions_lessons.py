@@ -2,16 +2,20 @@
 # Create a function (all_positives) that returns True if all the values in a list are positive, and False if at least one of the values is negative. Create a list named numbers with positive and negative values.
 
 # Don't call the function, you just need to define it.
+first = [2, 5, -2, 8, 3, 0]
+def all_positives(first):
+    for number in first:
+        if number <= 0:
+            return False
+    return True
 
-
-
-
+print(all_positives(first))
 
 
 # Dynamic Functions Practice #2
 # Create a function (sum_less) that adds the numbers of a list as long as they are greater than 0 and less than 1000, and returns the result of said sum. Create a numbers variable, storing a list of numbers so we can test it.
 
-
+def sum_less()
 
 
 
