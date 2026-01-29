@@ -19,6 +19,5 @@ def sum_less()
 
 
 
-
 # Dynamic Functions Practice #3
 # Create a function (count_even) that counts the number of even numbers that exist in a list (numbers), and returns the result of said count.
